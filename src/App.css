@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  border-top-width: 5mm;
+}
+
+.App-header {
+  align-items: center;
+
+  background-color: white;
+
+  font-size: calc(10px + 2vmin);
+  color: #6a392a;
+  font-weight: bolder;
+}
+
+.Barra-nav {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+
+  background-color: #fffbf7;
+
+  font-size: calc(8px + 2vmin);
+  color: #6a392a;
+  font-weight: lighter;
+}
+.Pie-contacto {
+  padding: 5mm;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #a7815a;
+  font-size: calc(4px + 2vmin);
+  color: #6a392a;
+  min-height: 20vh;
+}
+.Pie-datos {
+  font-size: calc(2px + 2vmin);
+  font-weight: lighter;
+  color: #ffffff;
+}
+
+.Pie-cr {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #370f2e;
+  font-size: small;
+  color: #a7815a;
+  font-weight: lighter;
+}
+
+.vertical {
+  border-left: 2px solid #370f2e62;
+  height: 16vh;
+  position: center;
+  left: 50%;
+}
+
+.Carrusel {
+  padding: 5mm;
+  text-align: center;
+  font-style: italic;
+}
+.Carrusel-frase {
+  padding: 5mm;
+  text-align: center;
+  font-weight: bold;
+  color: #503a32;
+}
+
+.Nosotros-frase {
+  padding: 5mm;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: #370f2e;
+}
+
+.Nosotros {
+  padding: 5mm;
+  align-items: stretch;
+  justify-content: space-around;
+  display: flex;
+
+  background-color: #fff5eb;
+}
+.Nos {
+  padding: 5mm;
+}
